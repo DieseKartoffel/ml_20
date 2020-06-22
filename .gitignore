@@ -1,0 +1,12 @@
+/lstmguckert
+
+*.PNG
+*.docx
+*.zip
+
+#touch README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git remote add origin http://185.194.239.100:3000/fvo/BERT-Notebooks.git
+#git push -u origin master
