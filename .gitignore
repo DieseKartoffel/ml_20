@@ -2,6 +2,7 @@
 /lstmguckert
 /run_gan
 /run
+/run_losscompare
 
 *.PNG
 *.docx
