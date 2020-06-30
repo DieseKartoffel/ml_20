@@ -1,5 +1,7 @@
 /vae_gan
 /lstmguckert
+/run_gan
+/run
 
 *.PNG
 *.docx
